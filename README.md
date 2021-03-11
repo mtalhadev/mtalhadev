@@ -1,7 +1,7 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Muhammad Talha - mtalhadev 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1200px-Upwork-logo.svg.png)](https://www.upwork.com/fl/mtalhadev)
+[![Website](https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/08/fiverr-logo-alt.png)](https://www.fiverr.com/mtalhadev)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
