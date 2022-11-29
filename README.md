@@ -1,10 +1,10 @@
 ### Hi there, I'm Muhammad Talha - mtalhadev 👋
 
-## I'm a Developer, Designer and Top Rated Freelancer!!
+## I'm a Top Rated Developer!!
 
 - 🔭 I am currently doing freelancing as a full stack developer!
 - 👯 I’m looking to work more in big-scale projects
-- 🥅 2021 Goals: Bringing professionalism to every project
+- 🥅 2022 Goals: Bringing professionalism to every project
 - ⚡ Special fact: I love to do everything mannered!
 
 ### Languages and Tools:
