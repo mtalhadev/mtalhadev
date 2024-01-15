@@ -4,7 +4,7 @@
 
 - 🔭 I am currently doing freelancing as a full stack developer!
 - 👯 I’m looking to work more in big-scale projects
-- 🥅 2022 Goals: Bringing professionalism to every project
+- 🥅 2024 Goals: Giving my own idea a real life
 - ⚡ Special fact: I love to do everything mannered!
 
 ### Languages and Tools:
