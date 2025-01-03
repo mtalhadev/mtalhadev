@@ -2,9 +2,9 @@
 
 ## I'm a Top Rated Developer!!
 
-- 🔭 I am currently doing freelancing as a full stack developer!
+- 🔭 I am currently doing freelancing as a senior full stack developer!
 - 👯 I’m looking to work more in big-scale projects
-- 🥅 2024 Goals: Giving my own idea a real life
+- 🥅 2025 Goals: Giving my own idea a real life
 - ⚡ Special fact: I love to do everything mannered!
 
 ### Languages and Tools:
